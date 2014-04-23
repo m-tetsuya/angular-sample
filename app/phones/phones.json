@@ -1,0 +1,23 @@
+[
+{
+  "id":1,
+  "name": "Nexus S",
+  "snippet":"Fast just",
+  "age":3,
+  "imageUrl": "img/phones/motorola-defy-with-motoblur.0.jpg"
+},
+{
+  "id":2,
+  "name":"AAA AJAX",
+  "snippet":"The AAA phone",
+  "age":2,
+  "imageUrl": "img/phones/motorola-defy-with-motoblur.0.jpg"
+},
+{
+  "id":3,
+  "name":"XDOM",
+  "snippet":"The Next",
+  "age":1,
+  "imageUrl": "img/phones/motorola-defy-with-motoblur.0.jpg"
+}
+]
